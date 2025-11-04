@@ -1,1 +1,2 @@
-print('hello, world1')
+x = 'Andrey'
+print('hello, world!')
