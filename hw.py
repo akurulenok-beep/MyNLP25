@@ -1,2 +1,11 @@
 x = 'Andrey'
 print('hello, world!')
+print('*')
+print('**')
+print('***')
+print('****')
+print('*****')
+print('******')
+print('*******')
+football_team = input()
+print(football_team, '- чемпион!')
